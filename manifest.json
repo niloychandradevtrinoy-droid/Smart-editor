@@ -1,0 +1,23 @@
+{
+  "short_name": "Gemini Docs",
+  "name": "Gemini Docs - AI-Powered Document Editor",
+  "description": "A powerful document editor infused with Google's Gemini AI. Write, edit, summarize, and translate your documents with intelligent assistance.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3b82f6",
+  "background_color": "#0f172a"
+}
